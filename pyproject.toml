@@ -40,7 +40,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.12"
-attrs = ">=21.4.0"
+attrs = ">=23.1.0
 base58 = "^2.1.1"
 cattrs = ">=22.1.0"
 click = "^8.1.3"
